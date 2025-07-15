@@ -13,8 +13,8 @@ A simple full-stack todo list built using MongoDB, Express, React, and Node.js.
 - Database: MongoDB Atlas
 
 ### 📷 Screenshots:
-![screenshot](screenshots/homepage.png)
-![screenshot](screenshots/hadd-todo.png)
+![Hompepage](screenshots/homepage.png)
+![Add Todo](screenshots/add-todo.png)
 
 ### ▶️ Local Setup:
 ```bash
